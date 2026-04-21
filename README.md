@@ -41,8 +41,8 @@ Antes de iniciar, certifique-se de ter instalado:
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/cep-api.git
-cd cep-api
+git clone git@github.com:caarlosandree/consultaCep.git
+cd consultaCep
 ```
 
 ### 2. Compile o Projeto
